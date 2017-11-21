@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8A3DDB4F-EE23-5BC9-8324-74B3CF3C0167}") = "Back4app_Unity3d_QuickStart", "Assembly-CSharp.csproj", "{BDFE6DB2-0DD2-88EC-939A-557A2F3BD7DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFE6DB2-0DD2-88EC-939A-557A2F3BD7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFE6DB2-0DD2-88EC-939A-557A2F3BD7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFE6DB2-0DD2-88EC-939A-557A2F3BD7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFE6DB2-0DD2-88EC-939A-557A2F3BD7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
