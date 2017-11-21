@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Back4appDemoSence.unity
+  isLoaded: 1
+  isActive: 1
